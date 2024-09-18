@@ -28,10 +28,10 @@ npm run deploy
 - [x] mostrar un web con teclas blancas (sin sonido)
 - [x] permitir que el usuario pulse las teclas y suene
 - [x] añadir teclas negras
-- [x] incorporar sonidos reales
-- [ ] permitir que el usuario toque el piano con el teclado del ordenador
-- [ ] refactorizar 
-- [ ] testear
+- [ ] incorporar sonidos reales
+- [x] permitir que el usuario toque el piano con el teclado del ordenador
+- [x] refactorizar 
+- [x] testear
 - [x] deployear
 
 -Código limpio <--Refactorización
